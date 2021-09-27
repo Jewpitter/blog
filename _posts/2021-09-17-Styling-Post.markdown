@@ -8,7 +8,7 @@ This lab has just blown by, and I'm surprised I'm finishing it just now. Today, 
 
 I'm not sure why I picked parades, but I'm happy that it reminded me of the Blues parade I went to. That was a very fun time and I will remember the feeling of the whole city celebrating forever Although it felt massive, the [largest parade in the world, Schützenfest,](https://en.wikipedia.org/wiki/Sch%C3%BCtzenfest) blows our little St. Louis celebration out of the water, and for a weird event. I didn't realize that marksmanship was so popular in Germany... or maybe the event has grown into something greater from the origins and it's not really about marksmanship too much anymore. I do like the outfits.  
 
-![Schützenfest in Hannover, Germany](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3A448._Wanfrieder_Sch%25C3%25BCtzenfest_2016_IMG_1317_edit.jpg&psig=AOvVaw3ECqYFVjiZMZvpMkG-uAKF&ust=1631947748510000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDp1qC1hfMCFQAAAAAdAAAAABAD)
+![Schützenfest in Hannover, Germany](https://upload.wikimedia.org/wikipedia/commons/b/b6/448._Wanfrieder_Sch%C3%BCtzenfest_2016_IMG_1317_edit.jpg)
 
 
 This class seems to be falling into place, but I really feel like we're only just scratching the surface, and I'm not 100% what's even going on with just this lab. I don't know how markdown works, but I have *looked* **a few** ***things up*** and it seems like it will be  
