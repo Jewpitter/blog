@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Lab 7"
+date:   2021-10-11 23:32:10 -0500
+author: Josh
+---
+Here's what we were meant to do with this blog post:  
+
+>Write a post on your Jekyll Github blog that reflects on your work on this lab. What were the easiest parts of the tutorial? What were confusing parts of the tutorial? What was difficult to translate when creating your own application in Step 2? What parallels and differences do you see between the Jekyll framework and the Razor framework? How confident do you feel making another Razor application?  
+
+>In your blog post, be sure to include a link to your GitHub repository for the application you created in Step 2.  
+
+Answering the questions in order:  
+No parts of the tutorial were easy. Nothing is working.  
+Every part of the tutorial was confusing. Nothing is working.  
+It was especially difficult to translate work, although I am not surprised with the outcome. Despite following every step and staring at error messages, googling for help, and starting over, I was unable to get the tutorial to work. I am not surprised that I was unable to get my own page to work either.  
+The only parallel I see in the framework is that they're both using text. I have no clue what's going on or how to fix anything.  
+Asking me how confident I feel making another Razor application feels like salt in the wound.  
+
+Maybe I will give this another shot later when I am less frustrated, but for now, this post will remain the same.  
+[Here's my github](https://github.com/Jewpitter/csci340lab7)  
+
+Updates below, if any:  
