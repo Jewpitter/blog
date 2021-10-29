@@ -14,6 +14,7 @@ Afterall, the last parade I took part in was a parade celebrating the first ever
 I was definitely not upset to be in that crowd.  
 
 **I have a picture, so I'll add it here!**  
-![Picture of the Blues parade](/Users/joshthomeczek/Github Stuff/DBWS/blog/images/BluesParade.pdf)
+![Picture of the Blues parade]({{site.baseurl}}/assets/images/BluesParade.pdf)
+
 
 Soon, I want to learn how to add video into a website so that I can post that here too!
