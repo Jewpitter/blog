@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Lab 8"
+date:   2021-11-1 23:32:10 -0500
+author: Josh
+---
+This lab was actually considerable more successful than Lab 7, most likely because I had a greater understanding of what could go wrong.
+
+By far, the most valuable thing I learned is how important it is to start from a solid foundation and to know everything you are going to do with a project well before you get started, at least as far as the databases are concerned.
+This realization came when I had to add age to the lab in just about every space I was working in.
+
+I still feel pretty unprepared to tackle an actual project based on the number of times that people recommend I just start the lab over from scratch. If it's that hard to make changes, we really can't afford a SINGLE mistake on the project. We simply cannot restart from scratch every time something inconvenient happens. There won't be enough time. I don't know the solution, but there has to be a better way.
+
+I hope that my group members are having less of a struggle than I am, and we can easily sort through the few databases we have. The real meat of the project is going to be sorting the contacts through the different criteria we need. Going over the structure of SQLite (I think) in class only raised more questions. Maybe it'll make sense when we really get started, but I know I will feel very lost without a tutorial giving me every step along the way.
+
+Here's hoping our group can weather the storm.

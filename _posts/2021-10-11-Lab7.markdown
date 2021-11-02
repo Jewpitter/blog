@@ -23,4 +23,4 @@ Maybe I will give this another shot later when I am less frustrated, but for now
 Updates below, if any:  
 
 I was able to make a website and click on things!  
-One major issue that I was dealing with earlier was a small line of code that broke the entire thing. Once I realized, I needed to delete the entire project before restarting, a step that took an hour to figure out -- and a step that I did NOT figure out without help. Now, I can get to work on Lab 8.
+One major issue that I was dealing with earlier was a small line of code that broke the entire thing. Once I realized, I needed to delete the entire project before restarting, a step that took an hour to figure out -- and a step that I did NOT figure out without help. Now, I can get to work on Lab 8.  
