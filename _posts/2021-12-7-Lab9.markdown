@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Lab 9"
+date:   2021-12-7 00:00:00 -0500
+author: Josh
+---
+To be completely transparent, I really did not contribute to this lab. All credit should go to Campbell. By the time that we were ready to work on Lab 9, I had taken over the lead on working on our final project, and we reached an agreement to split the tasks between us. Even with that, our lab 9 is bare bones and we were never able to implement Azure on our final project.  
+
+I'm actually not even sure if we successfully completed lab 9, or whether we accepted our losses and moved on to entirely focusing on the final project. I could try to go back and work through it, but the final project needs all hands on board or we will be unable to finish.  
+
+I've heard many horror stories about people hitting a brick wall with this lab. I suppose I did too, in a way.
